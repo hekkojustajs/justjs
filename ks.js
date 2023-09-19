@@ -1,3 +1,4 @@
+/*
 $('body').css('background', '#000');
 $('body').css('display', 'none');
 
@@ -5,3 +6,4 @@ $('body').css('display', 'none');
 var test = document.getElementsByTagName('body');
 test[0].style.background = '#000';
 test[0].style.display = 'none';
+*/
